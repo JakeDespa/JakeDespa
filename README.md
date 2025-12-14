@@ -58,9 +58,8 @@ A full-stack task management system implementing OOP design patterns.
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/JakeDespa)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jakedespa23@gmail.com)
 
 ---
 
-💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+💡 *"Eclipse first, the rest nowhere"*
