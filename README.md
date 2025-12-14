@@ -29,6 +29,27 @@ Full-stack developer passionate about building efficient, scalable web applicati
 
 ## 🌟 Featured Projects
 
+### IAS-cryptography
+Cryptography implementation and analysis project for Information Assurance and Security.
+
+**Tech:** Python, Cryptographic algorithms  
+**Features:**
+- Implementation of various encryption algorithms
+- Security analysis and best practices
+- Cryptographic protocol demonstrations
+
+### ADV-Mob-Dev - Spotify-Inspired Music App
+Spotify-inspired mobile application for learning advanced mobile development concepts.
+
+**Tech:** Mobile development frameworks  
+**Features:**
+- Music streaming interface and controls
+- Playlist management and navigation
+- Modern mobile UI/UX patterns
+- Responsive design principles
+
+
+
 ### TaskMate - Task Management Application
 A full-stack task management system implementing OOP design patterns.
 
